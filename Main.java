@@ -700,7 +700,7 @@ class KingdomOfWarGlobalConquest{
                 // Initial Creation
                 numPlayers = (int) getNum(2, 6);
                 for(int i = 0; i < numPlayers; i++){
-                    players.add(new Player(/*false,  Removed until v2.0.0 */
+                    players.add(new Player( /* false,  Removed until v2.0.0 */
                         "", '-'));
                 }
                 ArrayList<String> availableColors = new ArrayList<String>(
@@ -1162,7 +1162,7 @@ class KingdomOfWarGlobalConquest{
                 baseGain = Integer.parseInt(gameCodes[i++]);
                 // Creating Players
                 for(i = 0; i < numPlayers; i++){
-                    players.add(new Player(/*false, Removed until v2.0.0 */
+                    players.add(new Player( /* false, Removed until v2.0.0 */
                         "", '-'));
                 }
                 // Player Data
