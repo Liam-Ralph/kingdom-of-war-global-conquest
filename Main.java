@@ -207,7 +207,7 @@ class KingdomOfWarGlobalConquest{
 
         // --Neutral Player--
         // Used to represent neutral countries, doesn't actually play
-        Player playerNeutral = new Player(/*true,  Removed until v2.0.0 */
+        Player playerNeutral = new Player( /* true,  Removed until v2.0.0 */
             "Neutral", 'n');
         playerNeutral.money = 0;
         playerNeutral.reserveSoldiers = 0;
