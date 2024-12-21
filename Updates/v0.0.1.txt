@@ -1,0 +1,2 @@
+Solved some bugs
+Solved some gameplay problems relating to countries' bombing ranges

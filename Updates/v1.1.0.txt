@@ -1,0 +1,10 @@
+Map Rework
+Updated map
+-Added new map
+-Reworked map generation
+Reworked Country and Player classes
+Changes to players
+-Removed restriction on number of players
+-Added new player colors
+-Changed existing colors slightly
+-Added option to change color while playing
