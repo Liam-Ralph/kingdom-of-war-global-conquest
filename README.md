@@ -2,7 +2,7 @@
 
 # Kingdom of War - Global Conquest
 ### Released August 2023
-### Version 1.0.0
+### Version 0.0.3
 
 <br/>
 
