@@ -1,0 +1,2 @@
+Minor fixes
+More fixes to bombing ranges
